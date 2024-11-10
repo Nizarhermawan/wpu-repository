@@ -1,5 +1,7 @@
 RENCANA KONTEN WPU
 
 - Java script
+*ES6
+* FRAMEWROK JAVASCRIPT
 - Php 
 - Laravel
